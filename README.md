@@ -36,3 +36,7 @@ In my implementation, **accept_packet** method have **O(logn)**. If we maintain 
 
 # Refinements or Optimizations
 **1** I am using 'int' datatype of python to represent ipaddress and port. 'int' datatype using 32 bytes and 28 bytes respectively. I could have represent ipaddress and port in some compact manner to save some memory.
+
+
+# Interest in teams
+I am interested in **Data team** and **platform team** 
